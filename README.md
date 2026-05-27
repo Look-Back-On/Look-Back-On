@@ -1,9 +1,3 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:f7c6d4,100:c46b8a&height=200&section=header&text=Juhyun%20Park&fontSize=50&fontColor=3d1a26&rotate=0.5&fontAlign=49&fontAlignY=47&desc=Juhyun%20Park's%20github%20profile&descAlign=53&descAlignY=63)
-
-</div>
-
 ## Hi! I'm Juhyun Park.
 - Product Designer focused on problem-solving and user experience
 - Bachelor of Communication Design, Konkuk University
