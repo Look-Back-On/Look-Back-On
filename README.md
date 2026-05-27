@@ -4,11 +4,11 @@
 
 
 ## Work
-- 팀 리미티드 - 영끌
+- Team Limited
   - Product Designer (2025.03 ~ 2025.06)
-- 크레이지알파카 - 부동부동
+- Crazy Alpaca
   - UXUI Design Intern (2024.12)
-- 비바리퍼블리카 - 토스
+- Viva Republica
   - Design Assistant (2022.11 ~ 2023.08)
 - CJ ENM
   - Motion Designer (2022.01 ~ 2022.07)
