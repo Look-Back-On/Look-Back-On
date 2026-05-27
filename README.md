@@ -8,7 +8,7 @@
 </div>
 <br />
 
-## Work history
+## Work
 - 팀 리미티드 - 영끌
   - Product Designer (2025.03 ~ 2025.06)
 - 크레이지알파카 - 부동부동
@@ -16,7 +16,7 @@
 - 비바리퍼블리카 - 토스
   - Design Assistant (2022.11 ~ 2023.08)
 - CJ ENM
-  - Video Editor (2022.01 ~ 2022.07)
+  - Motion Designer (2022.01 ~ 2022.07)
 
 ## Organization history
 - **IT 연합 동아리 Yapp - WeSpot** (2024.05 ~ 현재)
