@@ -2,11 +2,6 @@
 - Product Designer @cashwalk
 - Bachelor of Communication Design, Konkuk University
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/박주현" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:witchmeans@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-<br />
 
 ## Work
 - 팀 리미티드 - 영끌
