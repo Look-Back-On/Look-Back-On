@@ -33,8 +33,6 @@
 🏆 **Kakao!mpact 소통 만렙상**
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sotong - 사용자 중심 문제 해결 성과 인정
 
-🥉 **IT 연합 동아리 디프만 최종 3등**
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Took - 디지털 명함 앱 서비스
 
 ## Contact
 - <a href="mailto:witchmeans@gmail.com">Gmail</a>
