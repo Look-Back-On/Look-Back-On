@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:f7c6d4,100:c46b8a&height=200&section=header&text=Welcome!&fontSize=70&fontColor=3d1a26&rotate=0.5&fontAlign=49&fontAlignY=47&desc=Juhyun%20Park's%20github%20profile&descAlign=53&descAlignY=63)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0:f7c6d4,100:c46b8a&height=200&section=header&text=Juhyun%20Park&fontSize=50&fontColor=3d1a26&rotate=0.5&fontAlign=49&fontAlignY=47&desc=Juhyun%20Park's%20github%20profile&descAlign=53&descAlignY=63)
 
 </div>
 
@@ -15,18 +15,14 @@
 <br />
 
 ## Work history
-- [팀 리미티드 - 영끌](https://younggeul.com/)
+- 팀 리미티드 - 영끌
   - Product Designer (2025.03 ~ 2025.06)
-  - 영수증 인증 리워드 앱, 1인 PD로 기획~UI 전 과정 주도
-- [크레이지알파카 - 부동부동](https://budongbudong.com/)
+- 크레이지알파카 - 부동부동
   - UXUI Design Intern (2024.12)
-  - 프롭테크 앱, 정보 입력 완료율 91%p 개선
-- [비바리퍼블리카 - 토스](https://toss.im/)
+- 비바리퍼블리카 - 토스
   - Design Assistant (2022.11 ~ 2023.08)
-  - Core UX팀, 디자인 시스템(TDS) 관리 및 리소스 제작
-- [CJ ENM](https://www.cjenm.com/)
+- CJ ENM
   - Video Editor (2022.01 ~ 2022.07)
-  - 유튜브 채널 Diggle, 식스센스3 클립 3일 만에 100만 뷰 달성
 
 ## Organization history
 - **IT 연합 동아리 Yapp - WeSpot** (2024.05 ~ 현재)
