@@ -19,7 +19,7 @@
   - Motion Designer (2022.01 ~ 2022.07)
 
 ## Organization history
-- **IT 연합 동아리 Yapp - WeSpot** (2024.05 ~ 현재)
+- **IT 연합 동아리 Yapp - WeSpot** (2024.05 ~ 2026.03)
   - 청소년 소통 서비스
 - **IT 연합 동아리 디프만 - Took** (2025.01 ~ 2025.04)
   - 네트워킹 디지털 명함 앱 서비스
