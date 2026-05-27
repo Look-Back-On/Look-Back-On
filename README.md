@@ -1,5 +1,5 @@
-## Hi! I'm Juhyun Park.
-- Product Designer focused on problem-solving and user experience
+## Hi! I'm Juhyun.
+- Product Designer @cashwalk
 - Bachelor of Communication Design, Konkuk University
 
 <div align="center">
