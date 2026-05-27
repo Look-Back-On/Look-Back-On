@@ -15,7 +15,7 @@
 - **CJ ENM** · Motion Designer
   - 2022.01 ~ 2022.07
 
-## Organization history
+## Organization
 - **[Yapp - WeSpot](https://github.com/wespot-bff)** · 청소년 소통 서비스
   - 2024.05 ~ 2026.03
 - **[Depromeet - Took](https://github.com/depromeet/Took-APP)** · 네트워킹 디지털 명함 앱
@@ -23,7 +23,7 @@
 - **[Kakao!mpact - 소통의 확장 LAB](https://www.kakaoimpact.org/)** · 청각장애인·문자통역사 연결 서비스 'Sotong'
   - 2024.10 ~ 2025.03
 
-## Award history
+## Award
 🏆 **디스콰이엇 2024년 8월 '이 달의 프로덕트' 선정**
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WeSpot - 청소년 소통 커뮤니티 서비스
 
