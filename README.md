@@ -16,7 +16,7 @@
   - 2022.01 ~ 2022.07
 
 ## Organization history
-- **[Yapp - WeSpot](https://github.com/YAPP-Github/WeSpot-iOS)** · 청소년 소통 서비스
+- **[Yapp - WeSpot](https://github.com/wespot-bff)** · 청소년 소통 서비스
   - 2024.05 ~ 2026.03
 - **[Depromeet - Took](https://github.com/depromeet/Took-APP)** · 네트워킹 디지털 명함 앱
   - 2025.01 ~ 2025.04
