@@ -4,6 +4,8 @@
 
 
 ## Work
+- **Nudge Healthcare** · Product Designer
+  - 2025.09 ~ 현재
 - **Team Limited** · Product Designer
   - 2025.03 ~ 2025.06
 - **Crazy Alpaca** · UXUI Design Intern
